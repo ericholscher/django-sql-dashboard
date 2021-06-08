@@ -4,6 +4,8 @@
 
 Install this library using `pip`:
 
+.. code::
+
     $ pip install django-sql-dashboard
 
 ## Configuration
